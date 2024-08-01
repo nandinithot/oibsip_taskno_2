@@ -1,0 +1,21 @@
+.container-fluid
+{
+    padding:2%;
+}
+body
+{
+    background-image:url(background.jpg);
+    background-size: cover;
+}
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position:relative;
+    width: 100%;
+    bottom: 0;
+}
+h3{
+    font-weight: bolder;
+}
